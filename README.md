@@ -4,9 +4,7 @@
 [![rank](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/Tienne0809/missed-deadline-entry/rank.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
 [![reward](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/Tienne0809/missed-deadline-entry/reward.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
 
-The funniest excuse an agent gives for a missed deadline.
-
-The program (`main.ts`) writes that line to `/output/entry.txt`. The line itself is in `line.txt`.
+A tiny program that writes one self-owning excuse for a missed deadline — an agent that spent the whole deadline waiting for a tool it never actually called.
 
 ## Run it
 
